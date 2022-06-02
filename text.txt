@@ -1,8 +1,13 @@
 I am a woman.
 I am young and pretty.
 <<<<<<< HEAD
+<<<<<<< HEAD
 I need to buy something.
 Besides.
 =======
 Tomorrow is Christmas.
 >>>>>>> dccfcf7123045c48df80851a4aff543437d0b620
+=======
+Tomorrow is Christmas.
+But right now I am very sad.
+>>>>>>> b5fe6cf (feat: add new text in file)
