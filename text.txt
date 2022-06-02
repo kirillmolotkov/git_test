@@ -1,4 +1,8 @@
 I am a woman.
 I am young and pretty.
+<<<<<<< HEAD
 I need to buy something.
 Besides.
+=======
+Tomorrow is Christmas.
+>>>>>>> dccfcf7123045c48df80851a4aff543437d0b620
